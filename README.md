@@ -1,3 +1,3 @@
 # Sistemas-Digitais
 
-### Trabalhos e exercícios práticos realizados durante a disciplin
+### Trabalhos e exercícios práticos realizados durante a disciplina
